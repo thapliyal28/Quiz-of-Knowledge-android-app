@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_cd667ecea12a9d69e78b423ed6dffdf381c22d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_4a3fd6440a79985c507934653ecb4fe5dcf549c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_88ffaece854bdc1cb734598928e8c51cb85ae93c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_fd4abe61bf58ebb2fc1b2ef3a08ffc52e21cdbaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhishekt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_2a96dc9916631b12d086691a83dc0d3b929a75e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_cc83fd4f29afb29b7d21ea15552a2fe18be466ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_77844d9f8ac4b9aef089cb29e356c5ed4a24a586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1073b0ecdf0f0ea6474daff766ee249c2f7fa718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d0c40a286a41a0688cc6308daa5ce548f7492287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7cfc6e4e304a3bcf1dc7f123d82963c4728f9e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8f8d7c0f4f3bce8776d26c1e07c077041f60c37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2789428958d0a18b5cc29e1041af794041aea8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5e65e1a8875d2958970f7cb818d501603973ae4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_fc80f6f7c442bbd4b8bbc46a8ac228d37ad66e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3ceb1051cf014136f7a8b30e2fdaaed03b985b32.jar" />
+    </item>
+
+</items>

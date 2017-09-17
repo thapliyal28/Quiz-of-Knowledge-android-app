@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <EditText
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="16dp"
+        android:id="@+id/question"
+        android:background="@color/white"
+        android:layout_height="60dp"
+        android:layout_width="300dp" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="14dp"
+        android:id="@+id/optionA"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/question"
+        android:layout_alignStart="@+id/question"
+        android:background="@color/white"
+        android:layout_height="30dp"
+        android:layout_width="300dp" />
+
+    <TextView
+        android:text="Opt 2:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/optionA"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/textView3"
+        android:layout_alignLeft="@+id/optionA"
+        android:layout_alignStart="@+id/optionA"
+        android:layout_marginTop="10dp"
+        android:id="@+id/optionB"
+        android:background="@color/white"
+        android:layout_height="30dp"
+        android:layout_width="300dp" />
+
+    <TextView
+        android:text="Opt 3:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/optionB"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_alignEnd="@+id/textView3"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView4" />
+
+    <TextView
+        android:text="Opt 4:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/optionC"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_marginTop="14dp"
+        android:id="@+id/textView5" />
+
+    <TextView
+        android:text="Opt 1:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/question"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_alignEnd="@+id/textView1" />
+
+    <TextView
+        android:text="Question:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/question"
+        android:layout_alignStart="@+id/question" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="14dp"
+        android:id="@+id/optionC"
+        android:background="@color/white"
+        android:layout_height="30dp"
+        android:layout_width="300dp"
+        android:layout_below="@+id/textView4"
+        android:layout_alignLeft="@+id/optionB"
+        android:layout_alignStart="@+id/optionB" />
+
+    <Button
+        android:text="ADD"
+        android:layout_width="70dp"
+        android:id="@+id/ADQ"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/textView6"
+        android:layout_alignLeft="@+id/answer"
+        android:layout_alignStart="@+id/answer" />
+
+    <TextView
+        android:text="Answer:"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/textView6"
+        android:layout_alignTop="@+id/answer"
+        android:layout_alignLeft="@+id/optionD"
+        android:layout_alignStart="@+id/optionD" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/answer"
+        android:background="@color/white"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/optionD"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/optionD"
+        android:layout_marginTop="11dp"
+        android:background="@color/white"
+        android:layout_height="30dp"
+        android:layout_width="300dp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignRight="@+id/optionC"
+        android:layout_alignEnd="@+id/optionC" />
+
+</RelativeLayout>

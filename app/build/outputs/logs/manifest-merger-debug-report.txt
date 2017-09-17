@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:5:5-94:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:10:9-40
+activity#triviality.example.com.mcq_test.LoginScreen
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:11:19-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:15:27-74
+activity#triviality.example.com.mcq_test.Admin
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:19:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:20:13-24:29
+category#android.intent.category.DEFAULT
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:23:27-73
+activity#triviality.example.com.mcq_test.addQuestion
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:29:19-46
+activity#triviality.example.com.mcq_test.Score
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:36:19-40
+activity#triviality.example.com.mcq_test.GameStart
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:43:19-44
+activity#triviality.example.com.mcq_test.HighScores
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:51:9-57:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:51:19-45
+activity#triviality.example.com.mcq_test.HomeScreen
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:60:9-66:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:60:19-45
+activity#triviality.example.com.mcq_test.RegisterActivity
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:69:19-51
+activity#triviality.example.com.mcq_test.QuizActivity
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:77:9-83:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:77:19-47
+activity#triviality.example.com.mcq_test.FinalActivity
+ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:85:9-91:20
+	android:name
+		ADDED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml:85:19-48
+uses-sdk
+INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\ece 655\projects\thapliyal abhishek\project2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ece 655\projects\thapliyal abhishek\project2\app\src\main\AndroidManifest.xml
